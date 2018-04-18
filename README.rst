@@ -1,4 +1,6 @@
-# README #
+==========
+README
+==========
 
 This is a modified version of the official ROS indigo [naoqi_driver](http://wiki.ros.org/naoqi_driver).
 
